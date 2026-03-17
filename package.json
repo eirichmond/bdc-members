@@ -1,0 +1,17 @@
+{
+	"name": "bdc-members",
+	"version": "1.0.0",
+	"private": true,
+	"description": "BDC Members plugin for WordPress.",
+	"devDependencies": {
+		"@wordpress/env": "^10.0.0",
+		"@playwright/test": "^1.40.0"
+	},
+	"scripts": {
+		"env:start": "wp-env start",
+		"env:stop": "wp-env stop",
+		"test:unit": "wp-env run tests-cli --env-cwd=wp-content/plugins/bdc-members phpunit",
+		"test:e2e": "playwright test --config=playwright.config.js",
+		"lint:php": "composer run-script phpcs"
+	}
+}
