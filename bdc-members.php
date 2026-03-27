@@ -4,7 +4,7 @@
  * Plugin URI:        https://britishdalmatianclub.org
  * Description:       Creates a members-only area with gated access, a custom members role, and a hierarchical members custom post type.
  * Version:           1.0.0
- * Requires at least: 6.9
+ * Requires at least: 7.0
  * Requires PHP:      8.2
  * Author:            Elliott Richmond
  * Author Email:      elliott@squareonemd.co.uk
