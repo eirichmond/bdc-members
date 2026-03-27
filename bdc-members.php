@@ -7,7 +7,7 @@
  * Requires at least: 6.9
  * Requires PHP:      8.2
  * Author:            Elliott Richmond
- * Author Email:      elliott@squareonemd.co.uk
+ * Author Email:      
  * Author URI:        https://elliottrichmond.co.uk
  * Collaborators:	  Elliott Richmond, Stilman Davis
  * Text Domain:       bdc-members
