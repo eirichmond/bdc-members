@@ -9,6 +9,7 @@
  * Author:            Elliott Richmond
  * Author Email:      elliott@squareonemd.co.uk
  * Author URI:        https://elliottrichmond.co.uk
+ * Collaborators:	  Elliott Richmond, Stilman Davis
  * Text Domain:       bdc-members
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
@@ -21,14 +22,6 @@ declare( strict_types=1 );
 
 defined( 'ABSPATH' ) || exit;
 
-/**
- * Does nothing demo git braching test.
- *
- * @return void
- */
-function this_does_nothing() {
-	echo 'this does nothing';
-}
 
 
 /**
