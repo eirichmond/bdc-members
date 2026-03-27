@@ -3,7 +3,7 @@
  * Plugin Name:       BDC Members
  * Plugin URI:        https://britishdalmatianclub.org
  * Description:       Creates a members-only area with gated access, a custom members role, and a hierarchical members custom post type.
- * Version:           1.0.1
+ * Version:           1.0.0
  * Requires at least: 6.9
  * Requires PHP:      8.2
  * Author:            Elliott Richmond
@@ -14,7 +14,7 @@
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  *
  * @package BDC_Members
- * @since   1.0.1
+ * @since   1.0.0
  */
 
 declare( strict_types=1 );
