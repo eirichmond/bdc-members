@@ -22,6 +22,16 @@ declare( strict_types=1 );
 defined( 'ABSPATH' ) || exit;
 
 /**
+ * Does nothing demo git braching test.
+ *
+ * @return void
+ */
+function this_does_nothing() {
+	echo 'this does nothing';
+}
+
+
+/**
  * PHP version gate.
  */
 if ( PHP_VERSION_ID < 80200 ) {
